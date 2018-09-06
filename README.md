@@ -2,23 +2,27 @@
 
 ### 簡介
 
-這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在資策會所開的 R 語言及其應用課程網頁，課程時數 24 小時。
+這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在長榮大學主講的**如何以R語言製作資料視覺圖像化**課程網頁，課程時數 6 小時。
 
-### 課堂互動工具（Event Code: S725）
+### 課堂互動工具（Event Code: U359）
 
 <https://www.sli.do/>
 
 ### 課程投影片（html）
 
-- [Getting Started with R](https://yaojenkuo.io/rprg_iii/getting_started#/)
-- [Variable Types in R](https://yaojenkuo.io/rprg_iii/var_types#/)
-- [Data Structures in R](https://yaojenkuo.io/rprg_iii/data_structures#/)
+- [Getting Started with R](https://yaojenkuo.io/rprg_workshop/getting_started#/)
+- [Variable Types in R](https://yaojenkuo.io/rprg_workshop/var_types#/)
+- [Data Structures in R](https://yaojenkuo.io/rprg_workshop/data_structures#/)
+- [Getting Data with R](https://yaojenkuo.io/rprg_workshop/getting_data#/)
+- [Exploring Data with R](https://yaojenkuo.io/rprg_workshop/exploring_data#/)
 
 ### 課程投影片（pdf）
 
-- [Getting Started with R](https://yaojenkuo.io/rprg_iii/getting_started.pdf)
-- [Variable Types in R](https://yaojenkuo.io/rprg_iii/var_types.pdf)
-- [Data Structures in R](https://yaojenkuo.io/rprg_iii/data_structures.pdf)
+- [Getting Started with R](https://yaojenkuo.io/rprg_workshop/getting_started.pdf)
+- [Variable Types in R](https://yaojenkuo.io/rprg_workshop/var_types.pdf)
+- [Data Structures in R](https://yaojenkuo.io/rprg_workshop/data_structures.pdf)
+- [Getting Data with R](https://yaojenkuo.io/rprg_workshop/getting_data.pdf)
+- [Exploring Data with R](https://yaojenkuo.io/rprg_workshop/exploring_data.pdf)
 
 ### 互動練習
 
