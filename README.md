@@ -4,12 +4,13 @@
 
 這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在長榮大學主講的**如何以 R 語言製作資料視覺圖像化**課程網頁，課程時數 6 小時。
 
-### 課堂互動工具（Event Code: U359）
+### 課堂互動工具（Event code: 5421）
 
 <https://www.sli.do/>
 
 ### 課程投影片（html）
 
+- [Data Visualization with R](data-visualization-with-r#/)
 - [Getting Started with R](https://yaojenkuo.io/rprg_workshop/getting_started#/)
 - [Variable Types in R](https://yaojenkuo.io/rprg_workshop/var_types#/)
 - [Data Structures in R](https://yaojenkuo.io/rprg_workshop/data_structures#/)
@@ -32,5 +33,5 @@
 ### 延伸閱讀
 
 - [輕鬆學習 R 語言 - 紙本書](http://www.books.com.tw/products/0010763975)
-- [Datainpoint](https://medium.com/datainpoint)
+- [Datainpoint](https://www.datainpoint.com/r-essentials/)
 - [Advanced R（Website）](http://adv-r.had.co.nz/)
